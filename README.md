@@ -2,6 +2,10 @@
 
 このリポジトリには、Google Apps Script (GAS) を使用して、Google スプレッドシートのデータからGoogle スライドに棒グラフを自動生成するサンプルスクリプトが含まれています。
 
+- 棒グラフイメージ
+![image](https://github.com/user-attachments/assets/e42d35e5-07ab-4675-8a68-451098e4c108)
+
+
 ## 機能
 
 - スプレッドシートのデータを基に棒グラフを自動生成
