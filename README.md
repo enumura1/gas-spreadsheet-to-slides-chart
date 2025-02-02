@@ -44,4 +44,4 @@ A5: Q4           B5: 66
 
 ## ライセンス
 
-MIT License
+[MIT License](./LICENSE)
